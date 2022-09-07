@@ -3,10 +3,10 @@ Try to recreate CVAE model for GR inference
 
 ## Create environment from yaml file for Linux
 
-**install**\\
+**install**
 
-`conda env create --file igwn-py39.yaml`\\
+`conda env create --file igwn-py39.yaml`
 
-**activate**\\
+**activate**
 
-`conda activate igwn-py39`\\
+`conda activate igwn-py39`
